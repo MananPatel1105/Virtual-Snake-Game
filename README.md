@@ -1,4 +1,4 @@
-![image](https://github.com/MananPatel1105/Virtual-Snake-Game/assets/104303233/8b353604-046e-4302-adeb-b7354e01346e)# Virtual-Snake-Game
+# Virtual-Snake-Game
 
 ## Sample Output
 ![image](https://github.com/MananPatel1105/Virtual-Snake-Game/assets/104303233/eef70be2-8647-4ae4-a561-03410d013195)
